@@ -82,7 +82,7 @@
 
 /* IE6/7 support */
 .slicknav_menu {
-	*zoom: 1;
+	zoom: 1;
 }
 
 /* 
